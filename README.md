@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app),\
 modified, \
-and based upon [Red Stapler tutorial] (https://www.youtube.com/watch?v=PsL3iI61wl8&t=1s) , \
+and based upon [Red Stapler tutorial](https://www.youtube.com/watch?v=PsL3iI61wl8&t=1s) , \
 https://betterprogramming.pub/how-to-use-matter-js-in-a-react-app-bbd43b71efccand and \
 https://paulie.dev/posts/2020/08/react-hooks-and-matter-js/
 
